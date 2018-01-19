@@ -1,6 +1,6 @@
 # Awesome CDS-101 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-<img src="https://cdn.rawgit.com/mason-cds-intro-comput-sci/awesome-cds-101/7c6c2afd/course-logo.svg" style="text-align: right; height: 90;">
+<img src="https://cdn.rawgit.com/mason-cds-intro-comput-sci/awesome-cds-101/7c6c2afd/course-logo.svg" align="right" height=90>
 
 > A curated list of references and resources for CDS-101
 
